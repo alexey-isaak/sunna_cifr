@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\bin\Debug\net7.0\summa_cifr.exe
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\bin\Debug\net7.0\summa_cifr.deps.json
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\bin\Debug\net7.0\summa_cifr.runtimeconfig.json
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\bin\Debug\net7.0\summa_cifr.dll
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\bin\Debug\net7.0\summa_cifr.pdb
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.AssemblyInfo.cs
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.dll
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\refint\summa_cifr.dll
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.pdb
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\summa_cifr.genruntimeconfig.cache
+C:\Users\alex\geekbrains\c_sharp_5\summa_cifr\obj\Debug\net7.0\ref\summa_cifr.dll
